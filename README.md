@@ -1,2 +1,2 @@
 # TesGit
-Tutorial
+Sample Application
